@@ -28,7 +28,7 @@
 
 ### After writing the prompt I click  on Generate let see what is the ouput of this prompt :
 
-![Look 2 ](https://github.com/MuhammadMudassirRaza12345/personalized_digital_material_app/blob/main/images/p3%20.png)
+![Look 2 ](https://github.com/MuhammadMudassirRaza12345/personalized_digital_material_app/blob/main/images/p3.png)
 
 ![Look 3 ](https://github.com/MuhammadMudassirRaza12345/personalized_digital_material_app/blob/main/images/p4%20.png)
 
