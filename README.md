@@ -51,8 +51,8 @@
 
 ![Look 7 ](https://github.com/MuhammadMudassirRaza12345/personalized_digital_material_app/blob/main/images/p9%20.png)
 
-## Here is app link deploy on clarifai
-`To play  with App :` [click here](https://clarifai.com/mudassirraza12345/app1/installed_module_versions/personalized_digital_material_app)
+## Here is app link deploy on streamlit
+`To play  with App :` [click here](https://personalizeddigitalmaterialapp-73txjpxggst2yi8hcaqzir.streamlit.app/)
 
 ## How install this app on your local machine in vscode 
 
