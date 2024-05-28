@@ -1,5 +1,11 @@
 # Personalized Digital Material 
 
+## DETAILED EXPLAINED OF PROBLEMS AND DEMO OF APP 
+
+[![Watch the video](https://github.com/MuhammadMudassirRaza12345/personalized_digital_material_app/blob/main/images/p1%20.png)](https://youtu.be/u6xHkoCJQyE?si=fZI0Z4sULK51T9N0)
+
+
+
 ### First see how this app look like :
 
 ![APP lOOK ](https://github.com/MuhammadMudassirRaza12345/personalized_digital_material_app/blob/main/images/p1%20.png)
